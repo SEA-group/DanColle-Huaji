@@ -1,10 +1,10 @@
-﻿# [HE/AP] Legendary Tieba Emoji / 滑稽
+﻿# Huaji / 滑稽
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-Tieba-Emoji?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-Tieba-Emoji)
 ![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-Tieba-Emoji)
 
-HE & AP shell model modification
+Shell model modification
 
 ## Installation
 * **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/`
